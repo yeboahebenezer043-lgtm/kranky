@@ -1,4 +1,4 @@
-function goToBuy(){
+const API = "https://kranky.onrender.com";function goToBuy(){
 
     window.location = "buy-data.html";
 
